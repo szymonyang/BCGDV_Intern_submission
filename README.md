@@ -1,6 +1,8 @@
-# BCGDV_Intern_submission
+# BCGDV Intern Submission - Python Solution
 
-A Simple GET and POST Python Client
+Another React.js solution can be seen at [BCGDV Intern Submission - React.js Solution](https://github.com/szymonyang/BCGDV_Intern_submission_React)
+
+### A Simple GET and POST Python Client
 
 ---
 
@@ -21,3 +23,4 @@ key = content.get("key")
 contact = {"name": "Jianwen (Simon) Yang", "email": "jianwen.yeung@gmail.com"}
 payload = {"apiKey": key}
 r = requests.post(api_url_base + "/api/v1/submit", params=payload, data=json.dumps(contact))
+
