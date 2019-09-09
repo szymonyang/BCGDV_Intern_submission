@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e541054-f505-42fe-8b01-8a7498124efe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submission.py" beforeDir="false" afterPath="$PROJECT_DIR$/submission.py" afterDir="false" />
-    </list>
+    <list default="true" id="0e541054-f505-42fe-8b01-8a7498124efe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/submission.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+            <state relative-caret-position="667">
+              <caret line="50" selection-end-line="58" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -133,12 +130,12 @@
       <workItem from="1565073483945" duration="5655000" />
       <workItem from="1565161008767" duration="2808000" />
       <workItem from="1565435462456" duration="85000" />
-      <workItem from="1567958019816" duration="2033000" />
+      <workItem from="1567958019816" duration="2364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10581000" />
+    <option name="totallyTimeSpent" value="10912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1057" extended-state="0" />
@@ -180,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/submission.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="667">
+          <caret line="50" selection-end-line="58" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
